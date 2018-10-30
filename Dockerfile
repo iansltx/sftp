@@ -1,5 +1,5 @@
-FROM alpine:3.7
-MAINTAINER Adrian Dvergsdal [atmoz.net]
+FROM alpine:3.8
+MAINTAINER Ian Littman
 
 # Steps done in one RUN layer:
 # - Install packages
